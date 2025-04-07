@@ -13,7 +13,7 @@ public class Ejemplo03 {
       }
       else {
           if (num1>num2){
-          System.out.println("umeros son iguales ");
+          System.out.println("Los numeros son iguales ");
       }
       }
           
